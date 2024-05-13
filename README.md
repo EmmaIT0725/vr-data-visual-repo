@@ -5,25 +5,25 @@ This repository contains code for visualizing data from a literature review on s
 
 ## Usage
 
-    Install the required dependencies listed in requirements.txt.
+1. Install the required dependencies listed in requirements.txt.
 
 ```bash
 pip install -r requirements.txt
 ```
 
-    Execute the script RQ_visual[num].py to preprocess and visualize the educational data.
+2. Execute the script RQ_visual[num].py to preprocess and visualize the educational data.
 
 ```bash
 python RQ_visual[num].py
 ```
 
-    Explore the generated visualizations and analysis results to gain insights into scenario-based learning with VR literature.
+3. Explore the generated visualizations and analysis results to gain insights into scenario-based learning with VR literature.
 
 
 
 ## References
 
-    Plotly - interactive visualization
+Plotly - interactive visualization
 
 https://wikidocs.net/book/8734   
 

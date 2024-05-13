@@ -25,7 +25,7 @@ python RQ_visual[num].py
 
 Plotly - interactive visualization
 
-https://wikidocs.net/book/8734   
+    https://wikidocs.net/book/8734   
 
 
     
